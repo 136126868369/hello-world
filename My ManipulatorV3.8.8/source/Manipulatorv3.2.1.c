@@ -88,7 +88,6 @@ void InitRobotState(void);
 	 ERTM;					     //Enable DBGM 使能实时中断
 
 
-
 	 delay_1ms(5500);
 	 SetScreen(1);
 	 delay_1ms(100);
