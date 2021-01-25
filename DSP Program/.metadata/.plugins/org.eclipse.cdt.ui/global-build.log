@@ -1,0 +1,225 @@
+
+**** Build of configuration Debug for project My ManipulatorV3.8.8 ****
+
+"C:\\ti\\ccsv5\\utils\\bin\\gmake" -k all 
+'Building file: ../source/BuildProgram.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -O1 --opt_for_speed=3 --fp_reassoc=on --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/DSP2833x_headers" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include1" -g --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="source/BuildProgram.pp" --obj_directory="source"  "../source/BuildProgram.c"
+'Finished building: ../source/BuildProgram.c'
+' '
+'Building file: ../source/DSP28335_Spi.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -O1 --opt_for_speed=3 --fp_reassoc=on --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/DSP2833x_headers" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include1" -g --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="source/DSP28335_Spi.pp" --obj_directory="source"  "../source/DSP28335_Spi.c"
+'Finished building: ../source/DSP28335_Spi.c'
+' '
+'Building file: ../source/EditProgram.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -O1 --opt_for_speed=3 --fp_reassoc=on --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/DSP2833x_headers" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include1" -g --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="source/EditProgram.pp" --obj_directory="source"  "../source/EditProgram.c"
+'Finished building: ../source/EditProgram.c'
+' '
+'Building file: ../source/KeyboardDriver.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -O1 --opt_for_speed=3 --fp_reassoc=on --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/DSP2833x_headers" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include1" -g --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="source/KeyboardDriver.pp" --obj_directory="source"  "../source/KeyboardDriver.c"
+"../source/KeyboardDriver.c", line 100: warning #179-D: variable "key_value_second" was declared but never referenced
+'Finished building: ../source/KeyboardDriver.c'
+' '
+'Building file: ../source/Man_DriverScreen.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -O1 --opt_for_speed=3 --fp_reassoc=on --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/DSP2833x_headers" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include1" -g --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="source/Man_DriverScreen.pp" --obj_directory="source"  "../source/Man_DriverScreen.c"
+'Finished building: ../source/Man_DriverScreen.c'
+' '
+'Building file: ../source/Man_MCX31xAS.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -O1 --opt_for_speed=3 --fp_reassoc=on --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/DSP2833x_headers" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include1" -g --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="source/Man_MCX31xAS.pp" --obj_directory="source"  "../source/Man_MCX31xAS.c"
+'Finished building: ../source/Man_MCX31xAS.c'
+' '
+'Building file: ../source/Man_Nandflash.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -O0 --opt_for_speed=3 --fp_reassoc=on --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/DSP2833x_headers" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include1" -g --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="source/Man_Nandflash.pp" --obj_directory="source"  "../source/Man_Nandflash.c"
+'Finished building: ../source/Man_Nandflash.c'
+' '
+'Building file: ../source/Manipulatorv3.2.1.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -O1 --opt_for_speed=3 --fp_reassoc=on --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/DSP2833x_headers" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include1" -g --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="source/Manipulatorv3.2.1.pp" --obj_directory="source"  "../source/Manipulatorv3.2.1.c"
+'Finished building: ../source/Manipulatorv3.2.1.c'
+' '
+'Building file: ../source/My_Delay.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -O1 --opt_for_speed=3 --fp_reassoc=on --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/DSP2833x_headers" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include1" -g --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="source/My_Delay.pp" --obj_directory="source"  "../source/My_Delay.c"
+'Finished building: ../source/My_Delay.c'
+' '
+'Building file: ../source/My_Project.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -O1 --opt_for_speed=3 --fp_reassoc=on --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/DSP2833x_headers" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include1" -g --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="source/My_Project.pp" --obj_directory="source"  "../source/My_Project.c"
+'Finished building: ../source/My_Project.c'
+' '
+'Building file: ../source/My_USART.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -O1 --opt_for_speed=3 --fp_reassoc=on --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/DSP2833x_headers" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include1" -g --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="source/My_USART.pp" --obj_directory="source"  "../source/My_USART.c"
+'Finished building: ../source/My_USART.c'
+' '
+'Building file: ../source/ReadEncoder.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -O1 --opt_for_speed=3 --fp_reassoc=on --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/DSP2833x_headers" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include1" -g --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="source/ReadEncoder.pp" --obj_directory="source"  "../source/ReadEncoder.c"
+'Finished building: ../source/ReadEncoder.c'
+' '
+'Building file: ../source/Sanxie_Servo.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -O1 --opt_for_speed=3 --fp_reassoc=on --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/DSP2833x_headers" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include1" -g --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="source/Sanxie_Servo.pp" --obj_directory="source"  "../source/Sanxie_Servo.c"
+'Finished building: ../source/Sanxie_Servo.c'
+' '
+'Building file: ../source/ScreenApi.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -O1 --opt_for_speed=3 --fp_reassoc=on --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/DSP2833x_headers" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include1" -g --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="source/ScreenApi.pp" --obj_directory="source"  "../source/ScreenApi.c"
+"../source/ScreenApi.c", line 1369: warning #112-D: statement is unreachable
+'Finished building: ../source/ScreenApi.c'
+' '
+'Building file: ../source/Touch_screen.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -O1 --opt_for_speed=3 --fp_reassoc=on --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/DSP2833x_headers" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include1" -g --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="source/Touch_screen.pp" --obj_directory="source"  "../source/Touch_screen.c"
+'Finished building: ../source/Touch_screen.c'
+' '
+'Building file: ../source/crc.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -O1 --opt_for_speed=3 --fp_reassoc=on --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/DSP2833x_headers" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include1" -g --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="source/crc.pp" --obj_directory="source"  "../source/crc.c"
+'Finished building: ../source/crc.c'
+' '
+'Building file: ../source/kinematic_explain.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -O1 --opt_for_speed=3 --fp_reassoc=on --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/DSP2833x_headers" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include1" -g --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="source/kinematic_explain.pp" --obj_directory="source"  "../source/kinematic_explain.c"
+"../source/kinematic_explain.c", line 1076: warning #179-D: variable "sign" was declared but never referenced
+'Finished building: ../source/kinematic_explain.c'
+' '
+'Building file: ../DSP2833x_common/DSP2833x_ADC_cal.asm'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -O1 --opt_for_speed=3 --fp_reassoc=on --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/DSP2833x_headers" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include1" -g --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="DSP2833x_common/DSP2833x_ADC_cal.pp" --obj_directory="DSP2833x_common"  "../DSP2833x_common/DSP2833x_ADC_cal.asm"
+'Finished building: ../DSP2833x_common/DSP2833x_ADC_cal.asm'
+' '
+'Building file: ../DSP2833x_common/DSP2833x_Adc.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -O1 --opt_for_speed=3 --fp_reassoc=on --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/DSP2833x_headers" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include1" -g --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="DSP2833x_common/DSP2833x_Adc.pp" --obj_directory="DSP2833x_common"  "../DSP2833x_common/DSP2833x_Adc.c"
+'Finished building: ../DSP2833x_common/DSP2833x_Adc.c'
+' '
+'Building file: ../DSP2833x_common/DSP2833x_CSMPasswords.asm'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -O1 --opt_for_speed=3 --fp_reassoc=on --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/DSP2833x_headers" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include1" -g --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="DSP2833x_common/DSP2833x_CSMPasswords.pp" --obj_directory="DSP2833x_common"  "../DSP2833x_common/DSP2833x_CSMPasswords.asm"
+'Finished building: ../DSP2833x_common/DSP2833x_CSMPasswords.asm'
+' '
+'Building file: ../DSP2833x_common/DSP2833x_CodeStartBranch.asm'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -O1 --opt_for_speed=3 --fp_reassoc=on --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/DSP2833x_headers" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include1" -g --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="DSP2833x_common/DSP2833x_CodeStartBranch.pp" --obj_directory="DSP2833x_common"  "../DSP2833x_common/DSP2833x_CodeStartBranch.asm"
+'Finished building: ../DSP2833x_common/DSP2833x_CodeStartBranch.asm'
+' '
+'Building file: ../DSP2833x_common/DSP2833x_CpuTimers.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -O1 --opt_for_speed=3 --fp_reassoc=on --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/DSP2833x_headers" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include1" -g --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="DSP2833x_common/DSP2833x_CpuTimers.pp" --obj_directory="DSP2833x_common"  "../DSP2833x_common/DSP2833x_CpuTimers.c"
+'Finished building: ../DSP2833x_common/DSP2833x_CpuTimers.c'
+' '
+'Building file: ../DSP2833x_common/DSP2833x_DBGIER.asm'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -O1 --opt_for_speed=3 --fp_reassoc=on --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/DSP2833x_headers" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include1" -g --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="DSP2833x_common/DSP2833x_DBGIER.pp" --obj_directory="DSP2833x_common"  "../DSP2833x_common/DSP2833x_DBGIER.asm"
+'Finished building: ../DSP2833x_common/DSP2833x_DBGIER.asm'
+' '
+'Building file: ../DSP2833x_common/DSP2833x_DMA.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -O1 --opt_for_speed=3 --fp_reassoc=on --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/DSP2833x_headers" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include1" -g --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="DSP2833x_common/DSP2833x_DMA.pp" --obj_directory="DSP2833x_common"  "../DSP2833x_common/DSP2833x_DMA.c"
+'Finished building: ../DSP2833x_common/DSP2833x_DMA.c'
+' '
+'Building file: ../DSP2833x_common/DSP2833x_DefaultIsr.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -O1 --opt_for_speed=3 --fp_reassoc=on --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/DSP2833x_headers" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include1" -g --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="DSP2833x_common/DSP2833x_DefaultIsr.pp" --obj_directory="DSP2833x_common"  "../DSP2833x_common/DSP2833x_DefaultIsr.c"
+'Finished building: ../DSP2833x_common/DSP2833x_DefaultIsr.c'
+' '
+'Building file: ../DSP2833x_common/DSP2833x_DisInt.asm'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -O1 --opt_for_speed=3 --fp_reassoc=on --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/DSP2833x_headers" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include1" -g --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="DSP2833x_common/DSP2833x_DisInt.pp" --obj_directory="DSP2833x_common"  "../DSP2833x_common/DSP2833x_DisInt.asm"
+'Finished building: ../DSP2833x_common/DSP2833x_DisInt.asm'
+' '
+'Building file: ../DSP2833x_common/DSP2833x_ECan.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -O1 --opt_for_speed=3 --fp_reassoc=on --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/DSP2833x_headers" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include1" -g --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="DSP2833x_common/DSP2833x_ECan.pp" --obj_directory="DSP2833x_common"  "../DSP2833x_common/DSP2833x_ECan.c"
+'Finished building: ../DSP2833x_common/DSP2833x_ECan.c'
+' '
+'Building file: ../DSP2833x_common/DSP2833x_ECap.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -O1 --opt_for_speed=3 --fp_reassoc=on --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/DSP2833x_headers" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include1" -g --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="DSP2833x_common/DSP2833x_ECap.pp" --obj_directory="DSP2833x_common"  "../DSP2833x_common/DSP2833x_ECap.c"
+'Finished building: ../DSP2833x_common/DSP2833x_ECap.c'
+' '
+'Building file: ../DSP2833x_common/DSP2833x_EPwm.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -O1 --opt_for_speed=3 --fp_reassoc=on --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/DSP2833x_headers" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include1" -g --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="DSP2833x_common/DSP2833x_EPwm.pp" --obj_directory="DSP2833x_common"  "../DSP2833x_common/DSP2833x_EPwm.c"
+'Finished building: ../DSP2833x_common/DSP2833x_EPwm.c'
+' '
+'Building file: ../DSP2833x_common/DSP2833x_EQep.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -O1 --opt_for_speed=3 --fp_reassoc=on --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/DSP2833x_headers" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include1" -g --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="DSP2833x_common/DSP2833x_EQep.pp" --obj_directory="DSP2833x_common"  "../DSP2833x_common/DSP2833x_EQep.c"
+'Finished building: ../DSP2833x_common/DSP2833x_EQep.c'
+' '
+'Building file: ../DSP2833x_common/DSP2833x_GlobalVariableDefs.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -O1 --opt_for_speed=3 --fp_reassoc=on --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/DSP2833x_headers" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include1" -g --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="DSP2833x_common/DSP2833x_GlobalVariableDefs.pp" --obj_directory="DSP2833x_common"  "../DSP2833x_common/DSP2833x_GlobalVariableDefs.c"
+'Finished building: ../DSP2833x_common/DSP2833x_GlobalVariableDefs.c'
+' '
+'Building file: ../DSP2833x_common/DSP2833x_Gpio.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -O1 --opt_for_speed=3 --fp_reassoc=on --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/DSP2833x_headers" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include1" -g --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="DSP2833x_common/DSP2833x_Gpio.pp" --obj_directory="DSP2833x_common"  "../DSP2833x_common/DSP2833x_Gpio.c"
+'Finished building: ../DSP2833x_common/DSP2833x_Gpio.c'
+' '
+'Building file: ../DSP2833x_common/DSP2833x_I2C.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -O1 --opt_for_speed=3 --fp_reassoc=on --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/DSP2833x_headers" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include1" -g --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="DSP2833x_common/DSP2833x_I2C.pp" --obj_directory="DSP2833x_common"  "../DSP2833x_common/DSP2833x_I2C.c"
+'Finished building: ../DSP2833x_common/DSP2833x_I2C.c'
+' '
+'Building file: ../DSP2833x_common/DSP2833x_Mcbsp.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -O1 --opt_for_speed=3 --fp_reassoc=on --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/DSP2833x_headers" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include1" -g --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="DSP2833x_common/DSP2833x_Mcbsp.pp" --obj_directory="DSP2833x_common"  "../DSP2833x_common/DSP2833x_Mcbsp.c"
+'Finished building: ../DSP2833x_common/DSP2833x_Mcbsp.c'
+' '
+'Building file: ../DSP2833x_common/DSP2833x_MemCopy.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -O1 --opt_for_speed=3 --fp_reassoc=on --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/DSP2833x_headers" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include1" -g --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="DSP2833x_common/DSP2833x_MemCopy.pp" --obj_directory="DSP2833x_common"  "../DSP2833x_common/DSP2833x_MemCopy.c"
+'Finished building: ../DSP2833x_common/DSP2833x_MemCopy.c'
+' '
+'Building file: ../DSP2833x_common/DSP2833x_PieCtrl.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -O1 --opt_for_speed=3 --fp_reassoc=on --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/DSP2833x_headers" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include1" -g --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="DSP2833x_common/DSP2833x_PieCtrl.pp" --obj_directory="DSP2833x_common"  "../DSP2833x_common/DSP2833x_PieCtrl.c"
+'Finished building: ../DSP2833x_common/DSP2833x_PieCtrl.c'
+' '
+'Building file: ../DSP2833x_common/DSP2833x_PieVect.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -O1 --opt_for_speed=3 --fp_reassoc=on --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/DSP2833x_headers" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include1" -g --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="DSP2833x_common/DSP2833x_PieVect.pp" --obj_directory="DSP2833x_common"  "../DSP2833x_common/DSP2833x_PieVect.c"
+'Finished building: ../DSP2833x_common/DSP2833x_PieVect.c'
+' '
+'Building file: ../DSP2833x_common/DSP2833x_Sci.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -O1 --opt_for_speed=3 --fp_reassoc=on --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/DSP2833x_headers" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include1" -g --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="DSP2833x_common/DSP2833x_Sci.pp" --obj_directory="DSP2833x_common"  "../DSP2833x_common/DSP2833x_Sci.c"
+'Finished building: ../DSP2833x_common/DSP2833x_Sci.c'
+' '
+'Building file: ../DSP2833x_common/DSP2833x_Spi.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -O1 --opt_for_speed=3 --fp_reassoc=on --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/DSP2833x_headers" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include1" -g --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="DSP2833x_common/DSP2833x_Spi.pp" --obj_directory="DSP2833x_common"  "../DSP2833x_common/DSP2833x_Spi.c"
+'Finished building: ../DSP2833x_common/DSP2833x_Spi.c'
+' '
+'Building file: ../DSP2833x_common/DSP2833x_SysCtrl.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -O1 --opt_for_speed=3 --fp_reassoc=on --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/DSP2833x_headers" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include1" -g --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="DSP2833x_common/DSP2833x_SysCtrl.pp" --obj_directory="DSP2833x_common"  "../DSP2833x_common/DSP2833x_SysCtrl.c"
+'Finished building: ../DSP2833x_common/DSP2833x_SysCtrl.c'
+' '
+'Building file: ../DSP2833x_common/DSP2833x_Xintf.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -O1 --opt_for_speed=3 --fp_reassoc=on --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/DSP2833x_headers" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include1" -g --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="DSP2833x_common/DSP2833x_Xintf.pp" --obj_directory="DSP2833x_common"  "../DSP2833x_common/DSP2833x_Xintf.c"
+'Finished building: ../DSP2833x_common/DSP2833x_Xintf.c'
+' '
+'Building file: ../DSP2833x_common/DSP2833x_usDelay.asm'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -O1 --opt_for_speed=3 --fp_reassoc=on --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/DSP2833x_headers" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include" --include_path="D:/TortoiseGit_software_develop/hello-world/DSP Program/My ManipulatorV3.8.8/include1" -g --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="DSP2833x_common/DSP2833x_usDelay.pp" --obj_directory="DSP2833x_common"  "../DSP2833x_common/DSP2833x_usDelay.asm"
+'Finished building: ../DSP2833x_common/DSP2833x_usDelay.asm'
+' '
+'Building target: My ManipulatorV3.8.8.out'
+'Invoking: C2000 Linker'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -O1 --opt_for_speed=3 --fp_reassoc=on -g --diag_warning=225 --display_error_number --diag_wrap=off -z -m"My ManipulatorV3.8.8.map" --stack_size=0x1000 --warn_sections -i"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/lib" -i"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/include" --reread_libs --display_error_number --diag_wrap=off --xml_link_info="My ManipulatorV3.8.8_linkInfo.xml" --rom_model -o "My ManipulatorV3.8.8.out"  "../lib/rts2800_fpu32_fast_supplement.lib" "../lib/rts2800_fpu32.lib" "./DSP2833x_common/DSP2833x_usDelay.obj" "./DSP2833x_common/DSP2833x_Xintf.obj" "./DSP2833x_common/DSP2833x_SysCtrl.obj" "./DSP2833x_common/DSP2833x_Spi.obj" "./DSP2833x_common/DSP2833x_Sci.obj" "./DSP2833x_common/DSP2833x_PieVect.obj" "./DSP2833x_common/DSP2833x_PieCtrl.obj" "./DSP2833x_common/DSP2833x_MemCopy.obj" "./DSP2833x_common/DSP2833x_Mcbsp.obj" "./DSP2833x_common/DSP2833x_I2C.obj" "./DSP2833x_common/DSP2833x_Gpio.obj" "./DSP2833x_common/DSP2833x_GlobalVariableDefs.obj" "./DSP2833x_common/DSP2833x_EQep.obj" "./DSP2833x_common/DSP2833x_EPwm.obj" "./DSP2833x_common/DSP2833x_ECap.obj" "./DSP2833x_common/DSP2833x_ECan.obj" "./DSP2833x_common/DSP2833x_DisInt.obj" "./DSP2833x_common/DSP2833x_DefaultIsr.obj" "./DSP2833x_common/DSP2833x_DMA.obj" "./DSP2833x_common/DSP2833x_DBGIER.obj" "./DSP2833x_common/DSP2833x_CpuTimers.obj" "./DSP2833x_common/DSP2833x_CodeStartBranch.obj" "./DSP2833x_common/DSP2833x_CSMPasswords.obj" "./DSP2833x_common/DSP2833x_Adc.obj" "./DSP2833x_common/DSP2833x_ADC_cal.obj" "./source/kinematic_explain.obj" "./source/crc.obj" "./source/Touch_screen.obj" "./source/ScreenApi.obj" "./source/Sanxie_Servo.obj" "./source/ReadEncoder.obj" "./source/My_USART.obj" "./source/My_Project.obj" "./source/My_Delay.obj" "./source/Manipulatorv3.2.1.obj" "./source/Man_Nandflash.obj" "./source/Man_MCX31xAS.obj" "./source/Man_DriverScreen.obj" "./source/KeyboardDriver.obj" "./source/EditProgram.obj" "./source/DSP28335_Spi.obj" "./source/BuildProgram.obj" "../lib/IQmath.lib" "../lib/SFO_TI_Build.lib" "../lib/SFO_TI_Build_V5.lib" "../lib/SFO_TI_Build_V5_fpu.lib" "../lib/SFO_TI_Build_fpu.lib" "../CMD/DSP2833x_Headers_nonBIOS.cmd" "../CMD/F28335.cmd" 
+<Linking>
+'Finished building target: My ManipulatorV3.8.8.out'
+' '
+
+**** Build Finished ****
